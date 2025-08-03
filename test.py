@@ -1,7 +1,7 @@
 import streamlit as st
 
 # Streamlitアプリの設定
-st.title("テスト計算アプリ")
+st.title("足し算アプリ")
 st.write("以下のフォームに数字を入力してください。")
 
 # ユーザー入力を受け取る
