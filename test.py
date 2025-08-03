@@ -1,5 +1,7 @@
 import streamlit as st
 
+
+st.image("sample.jpg")
 # Streamlitアプリの設定
 st.title("足し算アプリ")
 st.write("以下のフォームに数字を入力してください。")
